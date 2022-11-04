@@ -19,3 +19,4 @@
 - 隐藏内部 state
 - 实现 commit 提交修改
 - 实现 dispatch 提交异步修改
+- 此时已支持同步异步修改 store
