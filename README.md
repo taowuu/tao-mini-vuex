@@ -14,4 +14,8 @@
 - 实现 install 挂载 $store
 - 移步至第三步分支
 
-## 
+## 第三步
+- 响应化中心数据
+- 隐藏内部 state
+- 实现 commit 提交修改
+- 实现 dispatch 提交异步修改
